@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+![ezgif com-gif-maker](https://github.com/cihanbagriyanik/ToDo_App_with_React_react-local_storage-bootstrap/assets/132518854/5177848b-5707-428e-8f7a-31cfc0b2358c)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
